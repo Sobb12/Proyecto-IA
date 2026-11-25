@@ -1,0 +1,6 @@
+{
+  "name": "SproutPal",
+  "description": "An interactive virtual plant pet and Gemini AI eco-tutor teaching youth about plant care, sustainable cities (SDG 11), and life on land (SDG 15).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

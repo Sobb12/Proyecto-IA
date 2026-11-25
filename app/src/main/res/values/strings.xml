@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SproutPal</string>
+    <string name="nav_garden">Jardín</string>
+    <string name="nav_tutor">Eco-Tutor</string>
+    <string name="nav_alerts">Alertas</string>
+    <string name="nav_progress">Progreso</string>
+    <string name="action_water_plant">Regar Planta</string>
+    <string name="action_demo_tools">Herramientas de Demo</string>
+    <string name="notification_channel_name">Cuidado de Plantas y Eco-Consejos</string>
+    <string name="notification_channel_desc">Recordatorios para regar tu planta y datos curiosos sobre los ODS 11 y 15.</string>
+</resources>
